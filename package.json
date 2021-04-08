@@ -1,0 +1,18 @@
+{
+	"name": "svelte-kit-app",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"start": "svelte-kit start"
+	},
+	"devDependencies": {
+		"@prismicio/client": "^4.0.0",
+		"@sveltejs/adapter-node": "next",
+		"@sveltejs/kit": "next",
+		"prismic-dom": "^2.2.5",
+		"svelte": "^3.29.0",
+		"vite": "^2.1.0"
+	},
+	"type": "module"
+}
